@@ -1,0 +1,73 @@
+* {
+    background-color: white;
+}
+
+#nav-header{
+    display: flex;
+}
+
+body{
+    margin: 0;
+}
+.nav {
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    height: 13vh;
+    justify-content: center;
+}
+
+.accio-logo {
+    display: flex;
+    margin-left: 8vw;
+}
+
+.accio-menu{
+    
+    margin-left: 15vw;
+}
+#login-button{
+    color: #2F80ED;
+    border-color: #2F80ED;
+}
+
+.accio {
+    font-size: 30px;
+    padding-top: 1vh;
+}
+
+.bar {
+    font-size: xx-large;
+    color: lightgray;
+}
+
+.nav-menu {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    font-size: 2.5vh;
+}
+
+.nav-item{
+    padding-left: 2vw;
+}
+
+.next-batch{
+    width: 100vw;
+    height: 5vh;
+    background-color: #2F80ED ;
+    margin: 0;
+    color: white;
+    text-align: center;
+}
+
+.top-left{
+    width: 41vw;
+}
+.top-1-heading{
+    color: #2F80ED;
+}
+
+.images{
+    width: 100vw;
+}
